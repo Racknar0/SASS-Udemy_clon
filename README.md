@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Project: UDEMY Landing Page 🎨</h1>
 
 
-<h3 align="center">📝 This project was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP🌟.</h3>
+<h3 align="center">📝 Was created using the technologies HTML, CSS, BOOSTRAP, SASS and GuLP🌟.</h3>
 
 
 <div align="center">
